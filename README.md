@@ -55,5 +55,5 @@ Goal of V 3.0 will be:
 -Improve ram usage a bit, the current version has a little bug where the ram usage ramps up (when using values lower than 1000) till a certain point basically a memory leak 
 but it doesnt go higher than 289 mb so far
 
-![alt text](https://ibb.co/BwdLFRZ)
+![alt text](https://i.ibb.co/25mqHBt/V-2-3.jpg)
 
