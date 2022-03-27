@@ -1,4 +1,3 @@
-# EZAutoclicker
 This changelog only goes from 1.6 till the latest version due to the lack of documentation i did.
 Also since 1.6 i was offline for about 2 weeks so the versions from 1.7 - 2.2 are not downloadable anywhere.
 
@@ -47,6 +46,10 @@ V 2.3:
 
 -Added a feature that detects if you did not enter a number which shouldve been there since V 1.0 but i did not made it for some reason
 
+V 2.5:
+
+-Another big update in this version the only thing im made is another GUI redesign
+
 ======================
 Goal of V 3.0 will be:
 
@@ -55,5 +58,6 @@ Goal of V 3.0 will be:
 -Improve ram usage a bit, the current version has a little bug where the ram usage ramps up (when using values lower than 1000) till a certain point basically a memory leak 
 but it doesnt go higher than 289 mb so far
 
-![alt text](https://i.ibb.co/25mqHBt/V-2-3.jpg)
+
+![alt text](https://i.ibb.co/nBbGYxj/V-2-5.jpg)
 
