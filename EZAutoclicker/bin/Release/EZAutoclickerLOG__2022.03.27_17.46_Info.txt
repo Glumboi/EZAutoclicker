@@ -1,0 +1,4 @@
+Info log created at the 2022.03.27_17.46
+With: 
+Os version: Microsoft Windows 10.0.22581 
+EZAutoclicker version: 2.3.0.0
