@@ -7,7 +7,7 @@ Developed by:
 
 Also feel free to look into my other projects on github OR nexusmods (same name as here) where i do mods for mainly PCBS (pc building simulator)
 
-=============================
+
 V 1.6:
 
 -Optimized the code
@@ -62,7 +62,7 @@ V 2.6:
 
 -Made some little changes to the GUI
 
-======================
+
 Goal of V 3.0 will be:
 
 -I was thinking of adding a "custom hotkey" feature which will grab your input and use it as hotkey so you can change it to your preference
