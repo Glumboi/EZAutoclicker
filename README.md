@@ -7,7 +7,7 @@ Developed by:
 
 Also feel free to look into my other projects on github OR nexusmods (same name as here) where i do mods for mainly PCBS (pc building simulator)
 
-============================================================================================================
+=============================
 V 1.6:
 
 -Optimized the code
@@ -55,8 +55,11 @@ V 2.5:
 -Another big update in this version the only thing i made is another GUI redesign
 
 V 2.6:
+
 -Obfuscated the executable to compress the size by a bit and boost peformance
+
 -Added a version checker which should detect if you run an outdated version of the app
+
 -Made some little changes to the GUI
 
 ======================
@@ -64,7 +67,8 @@ Goal of V 3.0 will be:
 
 -I was thinking of adding a "custom hotkey" feature which will grab your input and use it as hotkey so you can change it to your preference
 
--Improve ram usage a bit, the current version has a little bug where the ram usage ramps up (when using values lower than 1000) till a certain point basically a memory leak 
+-Improve ram usage a bit, the current version has a little bug where the ram usage ramps up (when using values lower than 1000) 
+till a certain point basically a memory leak 
 but it doesnt go higher than 289 mb so far
 
 
