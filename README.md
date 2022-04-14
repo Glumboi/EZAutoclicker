@@ -62,6 +62,10 @@ V 2.6:
 
 -Made some little changes to the GUI
 
+V 2.6.1:
+
+-Added a feature that stops the timer when the click is off to reduce idle performance cost
+
 
 Goal of V 3.0 will be:
 
