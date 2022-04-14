@@ -52,7 +52,7 @@ V 2.3:
 
 V 2.5:
 
--Another big update in this version the only thing im made is another GUI redesign
+-Another big update in this version the only thing i made is another GUI redesign
 
 V 2.6:
 -Obfuscated the executable to compress the size by a bit and boost peformance
