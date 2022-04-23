@@ -69,9 +69,11 @@ V 2.6.1:
 V 3.0.0:
 
 -EZAC goes .net 6.0!!!!!!
+
 -Another little UI rework
+
 -Memory leak fixed
 
 
-![alt text](https://i.ibb.co/nBbGYxj/V-2-5.jpg)
+![alt text](https://i.ibb.co/MhJSnd6/Screenshot-2022-04-23-203413.png)
 
