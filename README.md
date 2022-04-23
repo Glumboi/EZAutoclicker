@@ -66,14 +66,11 @@ V 2.6.1:
 
 -Added a feature that stops the timer when the click is off to reduce idle performance cost
 
+V 3.0.0:
 
-Goal of V 3.0 will be:
-
--I was thinking of adding a "custom hotkey" feature which will grab your input and use it as hotkey so you can change it to your preference
-
--Improve ram usage a bit, the current version has a little bug where the ram usage ramps up (when using values lower than 1000) 
-till a certain point basically a memory leak 
-but it doesnt go higher than 289 mb so far
+-EZAC goes .net 6.0!!!!!!
+-Another little UI rework
+-Memory leak fixed
 
 
 ![alt text](https://i.ibb.co/nBbGYxj/V-2-5.jpg)
