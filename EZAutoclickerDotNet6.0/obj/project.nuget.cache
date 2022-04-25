@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Opfv+HDjRp6FG4GZNkE5x83eI/MZz4I+TDbkgq2as+fvlH+BgEIS5ZVdjSFFWU4kwDzD2c0ds5ei9IOHBDDxoQ==",
+  "success": true,
+  "projectFilePath": "F:\\visual studio\\repos2\\EZAutoclickerDotNet6.0\\EZAutoclickerDotNet6.0\\EZAutoclickerDotNet6.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Merlin\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\Merlin\\.nuget\\packages\\octokit\\0.50.0\\octokit.0.50.0.nupkg.sha512"
+  ],
+  "logs": []
+}

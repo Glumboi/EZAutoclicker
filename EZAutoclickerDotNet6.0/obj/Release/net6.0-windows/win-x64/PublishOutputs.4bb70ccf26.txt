@@ -1,0 +1,7 @@
+F:\visual studio\repos2\EZAutoclickerDotNet6.0\EZAutoclickerDotNet6.0\bin\publish\EZAutoclicker.pdb
+F:\visual studio\repos2\EZAutoclickerDotNet6.0\EZAutoclickerDotNet6.0\bin\publish\D3DCompiler_47_cor3.dll
+F:\visual studio\repos2\EZAutoclickerDotNet6.0\EZAutoclickerDotNet6.0\bin\publish\PenImc_cor3.dll
+F:\visual studio\repos2\EZAutoclickerDotNet6.0\EZAutoclickerDotNet6.0\bin\publish\PresentationNative_cor3.dll
+F:\visual studio\repos2\EZAutoclickerDotNet6.0\EZAutoclickerDotNet6.0\bin\publish\vcruntime140_cor3.dll
+F:\visual studio\repos2\EZAutoclickerDotNet6.0\EZAutoclickerDotNet6.0\bin\publish\wpfgfx_cor3.dll
+F:\visual studio\repos2\EZAutoclickerDotNet6.0\EZAutoclickerDotNet6.0\bin\publish\EZAutoclicker.exe

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPnyxfttDUhpbumvDfpFLitj42Xii31nOWtkQldnS0GM/uIA1opbF80pCZKGemD551ujdIFNuFmlp2jK45gr9w==",
+  "success": true,
+  "projectFilePath": "F:\\visual studio\\repos2\\EZAutoclickerDotNet6.0\\EZAutoclickerDotNet6.0\\EZAutoclickerDotNet6.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Merlin\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\Merlin\\.nuget\\packages\\octokit\\0.50.0\\octokit.0.50.0.nupkg.sha512",
+    "C:\\Users\\Merlin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.3\\microsoft.netcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Merlin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Merlin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Merlin\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
