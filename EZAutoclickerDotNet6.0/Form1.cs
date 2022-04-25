@@ -266,23 +266,6 @@ namespace EZAutoclickerDotNet6._0
             base.WndProc(ref m);
         }
 
-        private void Rightclick_CB_AppearanceChanged(object sender, EventArgs e)
-        {
-            //Checks if right click is checked and updates the variables
-            //for the settings and clicks
-            switch (Rightclick_CB.Checked)
-            {
-                case true:
-                    rightclick = true;
-                    checkboxchecked = true;
-                    break;
-                case false:
-                    rightclick = false;
-                    checkboxchecked = false;
-                    break;
-            }
-        }
-
         private void Middleclick_CB_CheckedChanged(object sender, EventArgs e)
         {
             switch (Middleclick_CB.Checked)
